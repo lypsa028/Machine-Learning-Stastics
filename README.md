@@ -1,3 +1,3 @@
 # Machine-Learning-Stastics
 
-Root forimminenting Machine Learning.
+Root for imminenting Machine Learning.
